@@ -1,0 +1,13 @@
+***DATOS DE USUARIOS ACTUALES***
+
+Usuario: Administrador
+Contraseña: administrador
+
+---------------------------------
+
+
+Usuario:Usuario
+Contraseña: 12345678
+
+
+--------------------------------
